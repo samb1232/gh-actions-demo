@@ -28,4 +28,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: user/app:latest
+          tags: samb1232/demo_github_actions:latest
